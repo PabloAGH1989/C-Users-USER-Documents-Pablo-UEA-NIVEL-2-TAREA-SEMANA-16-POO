@@ -1,0 +1,16 @@
+[
+    {
+        "identificador": "U001",
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contraseña": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificador": "U002",
+        "nombre": "Docente",
+        "usuario": "docente",
+        "contraseña": "abcd",
+        "rol": "Empleado"
+    }
+]

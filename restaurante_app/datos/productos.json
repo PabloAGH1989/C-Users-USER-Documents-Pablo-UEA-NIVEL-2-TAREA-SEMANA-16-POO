@@ -1,0 +1,17 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Ceviche",
+        "precio": 18.5
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Lomo Saltado",
+        "precio": 25.0
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Chicha Morada",
+        "precio": 8.0
+    }
+]
